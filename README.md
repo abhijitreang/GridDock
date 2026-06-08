@@ -4,13 +4,6 @@ Developed by
 Department of Molecular Biology & Bioinformatics
 Tripura University
 
-## Authors
-AR
-AS
-SB
-Arabinda Ghosh (Corresponding Author)
-Email: arabindaghosh@tripurauniv.ac.in 
-
 To effectively use this tool, ensure these files are ready: 
 1. SMILES File: Text file with ligand SMILES strings. 
 2. Receptor File: Target protein structure in .pdbqt format. 
